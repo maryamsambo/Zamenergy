@@ -1,0 +1,6 @@
+{
+  "name": "ZamEnergy Connect Pro",
+  "description": "A clean energy platform tailored to Zamfara, featuring secure authentication, an admin dashboard, an advanced solar load calculator, and downloadable reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
